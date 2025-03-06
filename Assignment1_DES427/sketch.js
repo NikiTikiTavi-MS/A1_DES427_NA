@@ -182,23 +182,23 @@ let fishBobber = {
 
 //preload images
 function preload() {
-  sprite129 = loadImage("/assets/Magikarp.png");
-  sprite129S = loadImage("/assets/Magikarp_Shiny.png");
-  sprite147 = loadImage("/assets/Dratini.png");
-  sprite147S = loadImage("/assets/Dratini_Shiny.png");
-  sprite072 = loadImage("/assets/Tentacool.png");
-  sprite072S = loadImage("/assets/Tentacool_Shiny.png");
-  oldRod = loadImage("/assets/Old_Rod.png");
-  goodRod = loadImage("/assets/Good_Rod.png");
-  superRod = loadImage("/assets/Super_Rod.png");
-  lureBox = loadImage("/assets/Fishing_Box_Display.png");
-  lureBoxR = loadImage("/assets/Fishing_Box_Right.png");
-  lureBoxL = loadImage("/assets/Fishing_Box_Left.png");
-  pondBG = loadImage("/assets/Pond_Background.png");
-  textBox = loadImage("/assets/Text_Box.png");
-  bobber = loadImage("/assets/Fishing_Bobber.png");
-  splash = loadImage("/assets/Water_Splash.png");
-  shinySparkle = loadImage("/assets/Gen_2_Shiny_Sparkles.gif");
+  sprite129 = loadImage('/assets/Magikarp.png');
+  sprite129S = loadImage('/assets/Magikarp_Shiny.png');
+  sprite147 = loadImage('/assets/Dratini.png');
+  sprite147S = loadImage('/assets/Dratini_Shiny.png');
+  sprite072 = loadImage('/assets/Tentacool.png');
+  sprite072S = loadImage('/assets/Tentacool_Shiny.png');
+  oldRod = loadImage('/assets/Old_Rod.png');
+  goodRod = loadImage('/assets/Good_Rod.png');
+  superRod = loadImage('/assets/Super_Rod.png');
+  lureBox = loadImage('/assets/Fishing_Box_Display.png');
+  lureBoxR = loadImage('/assets/Fishing_Box_Right.png');
+  lureBoxL = loadImage('/assets/Fishing_Box_Left.png');
+  pondBG = loadImage('/assets/Pond_Background.png');
+  textBox = loadImage('/assets/Text_Box.png');
+  bobber = loadImage('/assets/Fishing_Bobber.png');
+  splash = loadImage('/assets/Water_Splash.png');
+  shinySparkle = loadImage('/assets/Gen_2_Shiny_Sparkles.gif');
 } //close preload function
 
 function setup() {
